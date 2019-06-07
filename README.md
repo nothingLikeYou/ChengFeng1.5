@@ -4,6 +4,17 @@
 ## Link
 [https://juejin.im/post/5ca1b08fe51d455201119177](https://juejin.im/post/5ca1b08fe51d455201119177)
 
+## Web端
+[基于Vue端的Web前端系统](https://github.com/hansonfang/community_and_shopping)
+
+## Android端
+
+### 社区APP
+[社区版Android APP](https://github.com/Hanscang/AndroidCommunity)
+
+### 商城APP
+[商城版Android APP](https://github.com/xiao212l/CommunityMarket)
+
 ## 技术包括
 
 1. SpringBoot 2.1.3
